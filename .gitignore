@@ -1,2 +1,6 @@
 MusicGame/Library/
 MusicGame/Logs/
+MusicGame/Temp/
+MusicGame/obj/
+MusicGame/.vs/
+MusicGame/.vsconfig
